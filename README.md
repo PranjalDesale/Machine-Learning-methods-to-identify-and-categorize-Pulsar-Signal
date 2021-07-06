@@ -1,1 +1,1 @@
-# Machine-Learning-methods-to-identify-and-categorize-radio-Pulsar-Signal
+# Machine-Learning-methods-to-identify-and-categorize-Pulsar-Signal
